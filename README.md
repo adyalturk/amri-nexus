@@ -1,2 +1,2 @@
 # amri-nexus
-amri_nexus_dashboard.py
+Strategic Success Predictor for Amri Nexus
